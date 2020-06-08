@@ -38,13 +38,22 @@
     "waait": "^1.0.5"
   },
   "devDependencies": {
+    "@types/react": "^16.9.35",
+    "@typescript-eslint/eslint-plugin": "^3.1.0",
+    "@typescript-eslint/parser": "^3.1.0",
     "babel-jest": "^26.0.1",
     "babel-plugin-module-resolver": "^4.0.0",
     "casual": "^1.6.2",
     "enzyme-to-json": "^3.5.0",
+    "eslint": "^7.1.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.3",
+    "eslint-plugin-react": "^7.20.0",
     "graphql-tools": "^6.0.9",
     "jest": "^26.0.1",
-    "jest-transform-graphql": "^2.1.0"
+    "jest-transform-graphql": "^2.1.0",
+    "prettier": "^2.0.5",
+    "typescript": "^3.9.5"
   },
   "jest": {
     "setupTestFrameworkScriptFile": "<rootDir>/jest.setup.js",
