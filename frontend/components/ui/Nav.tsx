@@ -1,6 +1,6 @@
 import Link from 'next/link';
 
-import NavStyles from './styles/NavStyles';
+import NavStyles from '../styles/NavStyles';
 
 const Nav = () => (
   <NavStyles>
